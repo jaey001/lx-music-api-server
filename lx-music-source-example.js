@@ -1,6 +1,6 @@
 /*!
- * @name 替换为你的音乐源名称
- * @description 替换为你的音乐源介绍
+ * @name zzj
+ * @description zzj
  * @version v1.0.1
  * @author Folltoshe & helloplhm-qwq
  * @repository https://github.com/lxmusics/lx-music-api-server
@@ -9,9 +9,9 @@
 // 是否开启开发模式
 const DEV_ENABLE = true
 // 服务端地址
-const API_URL = 'http://127.0.0.1:9763'
+const API_URL = 'http://10.10.10.5:9763'
 // 服务端配置的请求key
-const API_KEY = ''
+const API_KEY = 'A035C8C19219BA821ECEA86B64E628F8D684696D'
 // 音质配置(key为音源名称,不要乱填.如果你账号为VIP可以填写到hires)
 // 全部的支持值: ['128k', '320k', 'flac', 'flac24bit']
 const MUSIC_QUALITY = {
